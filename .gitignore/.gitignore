@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Database
+*.fdb
+*.gdb
+
+# Zip
+*.zip
+*.7z
